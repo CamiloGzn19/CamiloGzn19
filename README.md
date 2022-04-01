@@ -21,11 +21,6 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white"></a>
 </p>
 
-## Skill Set :muscle:
-
-These are some of the major technologies that I use or have worked on in the past:
-
 ## Contact With Me 😀
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CamiloGzn19)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-garzon-castillo/)
