@@ -24,10 +24,10 @@ I am **Architect** and **Frontend Developer**. My daily work revolves around cre
 ## My activities
 
 <a href="https://github.com/CamiloGzn19/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CamiloGzn19&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CamiloGzn19&theme=react&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/CamiloGzn19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGzn19&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGzn19&theme=react&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ## Contact With Me 😀
