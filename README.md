@@ -21,6 +21,11 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
     <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white"></a>
 </p>
 
+## My activities
+
+<a href="https://github.com/CamiloGzn19/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CamiloGzn19&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 <a href="https://github.com/CamiloGzn19/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGzn19&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
