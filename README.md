@@ -22,7 +22,7 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
 </p>
 
 <a href="https://github.com/CamiloGzn19/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGzn19&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalo&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ## Contact With Me 😀
