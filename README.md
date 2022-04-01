@@ -6,6 +6,7 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
 
 These are some of the major technologies that I use or have worked on in the past:
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+## Contact Me :happy face: 
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CamiloGzn19)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-garzon-castillo/)
