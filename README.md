@@ -7,11 +7,15 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
 ## Programming Languages
 
 <p>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ## Frameworks and Libraries
+
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 </p>
@@ -20,7 +24,7 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
 
 These are some of the major technologies that I use or have worked on in the past:
 
-## Contact Me 😀 
+## Contact With Me 😀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CamiloGzn19)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-garzon-castillo/)
