@@ -11,14 +11,14 @@ I'm an **Architect**, and a **Frontend Developer**. My day to day work revolves 
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>    
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white"></a>    
 </p>
 
 ## Frameworks and Libraries
 
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=whitee"></a>
+    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></a>
 </p>
 
 ## Skill Set :muscle:
