@@ -30,6 +30,6 @@ I am **Architect** and **Frontend Developer**. My daily work revolves around cre
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGzn19&theme=react&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
-## Contact With Me 😀
+## Contact Me 😀
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-garzon-castillo/)
