@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a  href="https://techytushar.github.io/">Camilo Garzón</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a  href="https://techytushar.github.io/">Camilo Garzón</a> <img  style="widt: 30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Bienvenido+a+mi+Github)](https://git.io/typing-svg)
 
